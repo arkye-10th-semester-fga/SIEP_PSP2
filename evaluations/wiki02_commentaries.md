@@ -112,4 +112,8 @@
 
 # Yasmin/Gabrielle/Diego
 
-- Não encontrei o artigo de vocês. A Home da wiki de vocês (http://aprender.ead.unb.br/mod/wiki/view.php?wid=531&title=Home&group=3671) levam para o primeiro artigo. Por favor, criem o quanto antes o link para o segundo artigo e atualizem a home de vocês (Dica: Façam backup dos dois artigos no computador). Avisem da atualização no fórum do curso.
+- Adicionar conteúdos midiáticos (figuras, vídeos, diagramas) relevantes que, inclusos com o texto, são capazes de expressar com simplicidade e completude o conteúdo esperado;
+- Insira informações adicionais, como autores e nome do artigo, em referências advindas da internet;
+- Insira também, informaçes adicionais de referências advindas de livros e artigos. O nome e ano de publicação do artigo/livro é essencial!
+- Seria interessante abordar tecnologias corporativas (para grandes organizações) que inovam em contexto de colaboração;
+- Espera-se a cooperação do trio, a Gabrielle até agora não contribuiu na Wiki.
